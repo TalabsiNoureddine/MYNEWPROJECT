@@ -12,6 +12,7 @@ namespace base_donné_1
 {
     public partial class Form1 : Form
     {
+         string salut ="HHHH";
         public Form1()
         {
             InitializeComponent();
